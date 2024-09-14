@@ -27,3 +27,6 @@ This Python script generates an interactive graph visualization of a Python code
 ## Installation
 
 1. python .\codeGen_challenge.py your_github_repo
+
+![image](https://github.com/user-attachments/assets/2e71fbce-3ce6-4734-9267-9228aba1ff56)
+
